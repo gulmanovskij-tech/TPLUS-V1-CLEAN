@@ -1,0 +1,28 @@
+﻿.gradle/
+.gradle-user-home/
+build/
+app/build/
+app/.cxx/
+.idea/
+_backup_old_versions/
+*.apk
+*.zip
+*.iml
+local.properties
+.externalNativeBuild/
+
+# Local AI / development caches
+.android-user-home/
+.kotlin/
+
+# Old backup files
+_backups/
+_backup_*.kt
+
+# Test images
+_test_mask*.png
+tplus_*_test.png
+
+# Temporary project reports
+TPLUS_SOURCE_CHECK.txt
+README_TEST.md
